@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Erjamo
+- 👀 I’m interested in Java, PHP, Python
+- 🌱 I’m currently learning Technical Computer Science
+- 📫 How to reach me kontakt(ät)ermoserver.de
